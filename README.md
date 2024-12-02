@@ -1,5 +1,5 @@
 # StructWiz:A  web application for protein visualization 
-## Video Demo:  [DEMO]()
+## Video Demo:  [DEMO](https://youtu.be/KK7bTOIzvxA)
 ## Description:
 ### Introduction
 **My project is a one-person project which aims to create a web application which allows users to visualize proteins of their choice, inspired by [PDB](https://www.rcsb.org/) and [PyMOL](https://www.pymol.org/).**
